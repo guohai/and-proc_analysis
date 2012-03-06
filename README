@@ -1,0 +1,15 @@
+these codes are from $ICS_SOURCE_HOME/system/extras
+
+just for study
+
+plz follow the rules to use it
+
+you can easily git clone it down to the computer folder, suppose $PROC_HOME
+
+launch terminal
+execute following commands:
+$ cd $PROC_HOME/jni/
+$ ndk-build
+
+good luck & try
+
